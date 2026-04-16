@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+.venv/
+__pycache__/
+.idea/
+historico/
+config_camarujo.json
+ultimo_pedido_camarujo.json
+*.pyc
+!logo_camarujo.png
